@@ -1,4 +1,3 @@
--- Made By JamJam
 local PlaceID = game.PlaceId
 local AllIDs = {}
 local foundAnything = ""
